@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties declaration to all his loving subjects upon occasion of the ordinance and declaration of the Lords and Commons for assessing all such who have not contributed sufficiently for raising money, plate &amp;c.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18969</idno><idno type="EEBO-CITATION">11183736</idno>
+  <idno type="VID">204857</idno>
+  <idno type="EEBO-PROQUEST">2240916061</idno>
+  
+            <idno type="STC">Wing C2260</idno>
+            <idno type="OCLC">11183736</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18969)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204857)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1437:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties declaration to all his loving subjects upon occasion of the ordinance and declaration of the Lords and Commons for assessing all such who have not contributed sufficiently for raising money, plate &amp;c.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication given by Wing.</note>
+                  <note>Imperfect: print show-through with loss of print.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:204857:1"/>
+            <pb facs="tcp:204857:1"/>
+            <head>His Majesties Declaration to all His loving Subjects upon occasion of the <hi>Ordinance</hi> and <hi>Declaration</hi> of the <hi>Lords</hi> and <hi>Commons,</hi> for assessing all such who have not contributed sufficiently for raising <hi>Money, Plate,</hi> &amp;c.</head>
+            <p>IT would not be believed (at least great paines have been taken that it might not) that the pretended Ordinance of the <hi>Militia</hi> (the first attempt that ever was to make a Law by Ordinance without Our consent) or the keeping Us out of <hi>Hull,</hi> and taking Our Armes and Munition from Us, could any way concerne the Interest, Property, or Liberty of the subject, and it was confessed by that desperate Declarati<g ref="char:EOLhyphen"/>on it self of the 26 of <hi>May,</hi> that if they were found guilty of that charge of destroying the title and interest of Our sub<g ref="char:EOLhyphen"/>jects to their lands and goods, it were indeed a very great crime. But it was a strange fatall Lethargy which had seised Our good people, and kept them from discerning, that the Nobility, Gentry, Comonalty of <hi>England,</hi> were not only strip<g ref="char:EOLhyphen"/>ped of their preheminences and Priviledges, but of their li<g ref="char:EOLhyphen"/>berties and estates, when Our just Rights were denyed Us, and that no Subject could from thenceforth expect to dwell at home, when We were driven from Our Houses and Our Towns. It was not possible, that a Commission could be gran<g ref="char:EOLhyphen"/>ted to the E. of <hi>Essex,</hi> to raise an Army against Us, and for the safety of Our Person, and preservation of the peace of the Kingdom, to pursue, kill and slay Us, and all who wish wel to Us, but that in a short time inferior Cōmanders, by the same authority, would require Our good Subjects for the mainte<g ref="char:EOLhyphen"/>nance of the property of the subject, to supply them with such sums of Money as they think fit, upon the penalty of be<g ref="char:EOLhyphen"/>ing plundred with all extremity of War (as the stile of Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Rayntons</hi> Warrant runs against Our poore subjects in <hi>Wiltshire</hi>) and by such Rules of unlimitted Arbitrary power,
+<pb facs="tcp:204857:2"/> as are inconsistent with the least pretence or shadow of that Property it would seem to defend.</p>
+            <p>If there could b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yet any understanding so unskilfull and Supine to believe, that these disturbers of the publique peace do intend any th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng but a generall confusion, they have brought them a sad argument to their own doors to convince them; after this Ordinance and D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>claration tis not in any so<g ref="char:EOLhyphen"/>ber mans power to believe himself worth any thing, or that there is such a thing as law, liberty, property, left in <hi>England,</hi> under the ju<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>isdictio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of these men, and the same power that robs them now of the twentieth part of their est<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tes, hath by that but made a claim and entituled it self to the other 19. when it shal be thought fit to hasten the general ruine. Sure, if the minds of all men be not stubbornly prepared for servi<g ref="char:EOLhyphen"/>tude, they wil look on this O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dinance as the greatest prodigy of Arbitrary power and tyranny that any age hath brought forth in any Kingdom; other grievances (&amp; the greatest) have been conceived intolerable, rather by the logicke and conse<g ref="char:EOLhyphen"/>quence, then by the pressure it self, this at once sweeps away all that the wisdom and justice of Parliaments have provided for them. Is their property in their estates (so carefully loo<g ref="char:EOLhyphen"/>ked to by their ancestors, and so amply established by Us a<g ref="char:EOLhyphen"/>gainst any possibility of Invasion from the Crown) which makes the meanest subject as much a Lord of his own, as the greatest Peer, to be valued or considered? here is a twentieth part of every mans estate (or so much more as foure men wil please to call the twentieth part taken away at once, and yet a power left to take a twentieth still of that which remains, &amp; this to be leavied by such circumstances of severity, as no Act of Parliament ever consented to. Is their liberty which distin<g ref="char:EOLhyphen"/>guishes Subjects from slaves, and in which this free-born Na<g ref="char:EOLhyphen"/>tion hath the advantage of all Christendom, deare to them? they shal not only be imprison'd in such places of this King<g ref="char:EOLhyphen"/>dome, (a latitude of judgment no Court can challenge to it self in any Cases) but for so long time as the Committee of the
+<pb facs="tcp:204857:2"/> house of Commons for examination shal appoint and order; the House of Commons it self having never assumed, or in the least degree pretended to a power of judicature, having no more authority to administer an oath (the only way to dis<g ref="char:EOLhyphen"/>cover and find out the truth of facts) to, then to cut off the heads of any our subjects; and this Committee being so farre from being a part of the Parliament, that it is destructive to the whole, by usurping to it self all the power of King, Lords, &amp; Commons. All who know any thing of Parliaments, know that a Committee of either House ought not by the Law to publish their own results, ne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther are their conclusions of any force without the confirmation of the house, which hath the same power of controling them as if the matter had never bin debated; but that any Committee should be so contracted (as this of examination, a stile no Committee ever bore before this Parliament) as to exclude the Members of the House, who are equally trusted by their Countrey, from being present at the counsels, is so monstrous to the Priviledges of Parliament, that it is no more in the power of any man to give up that free<g ref="char:EOLhyphen"/>dome, then of himself to order, that from that time the place for which he serves, shal never more send a Knight or Burgesse to the Parliament, and in truth is no lesse then to alter the whole frame of government, to pull up Parliaments by the roots, and to commit the lives, liberties, and estates of all the people of <hi>England,</hi> to the arbitrary power of a few unqualified persons, who shall dispose thereof according to their discreti<g ref="char:EOLhyphen"/>on, without account to any rule or authority whatsoever.</p>
+            <p>Are their friends, their wives, and children (the greatest blessings of Peace and the comforts of life) precious to them? would even their penury and imprisonment be less<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grievous by those cordials? they shal be divorced from them, banished, and shal no longer remain within the Cities of <hi>London</hi> and <hi>Westminster,</hi> the Suburbs and the Counties adjacent, and how far those adjacent Coun<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es shall extend no man knows.</p>
+            <p>Is there any thing now left to enjoy, but the liberty to re<g ref="char:EOLhyphen"/>bell,
+<pb facs="tcp:204857:3"/> and destroy one another? are the outward blessings only of peace, property, and liberty, taken, and forced from Our subjects? are their consciences free and unassaulted by the violence of these fire brands? sure the liberty and freedome of conscience cannot suf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er by these men. Alas! all these pu<g ref="char:EOLhyphen"/>nishments are imposed upon them because they wil not sub<g ref="char:EOLhyphen"/>mit to actions contrary to their natural loyalty, to their oathes of Allegianc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and Supremacy, and to their late voluntary pro<g ref="char:EOLhyphen"/>testation, which obliges them to the care of Our Person and Our just Rights. How many persons of Honour, quality, and reputation of the severall Counties of <hi>England,</hi> are now im<g ref="char:EOLhyphen"/>prison'd, without any objection against them, but suspition of their loyalty? how many of the gravest and most substan<g ref="char:EOLhyphen"/>tial Citizens of <hi>London,</hi> by whom the Government and Dis<g ref="char:EOLhyphen"/>cipline of that City was preserved, are disgraced, robbed, and imprisoned, without any processe of Law, or colour of accusation, but of obedience to the Law and Government of the Kingdome? whilst Anabaptists, and Brownists, with the assistance of vitious and deboshed persons, of desperate Fortunes, take upon them to break up and rifle houses, as publique and avowed Ministers of a new invented authority; How many godly, pious, and painfull Divines, whose Lives and Learning hath made them of reverend estimation, are now slander'd with inclination to Popery, discountenanced, and imprisoned, for discharging their Consciences, instruct<g ref="char:EOLhyphen"/>ing the People in the Christian duty of Religion, and obedi<g ref="char:EOLhyphen"/>ence, whil'st Schismaticall, Illiterate, &amp; scandalous Preachers, fill the Pulpits and Churches, with Blasphemy, Irreverence, and Treason; and incite their Auditory to nothing but Mur<g ref="char:EOLhyphen"/>ther and Rebellion; We passe over the vulgar charm, by which they have captivated such who have been contented to dispence with their Consciences for the preservation of their estates, and by which they perswade men cheerfully to part with this twentieth part of their Estate to the good work in hand: for whoever will give what he hath, may scape rob<g ref="char:EOLhyphen"/>bing;
+<pb facs="tcp:204857:3"/>
+               <hi>They shall be repay'd upon the publike Faith as all other monies lent upon the Propositions of both Houses;</hi> it may be so; but men must be condemned to a strange unthriftinesse who will lend upon such security. The publike Faith indeed is as great an earnest as the State can give, and engages the Honour, Repu<g ref="char:EOLhyphen"/>tation, and honesty of the Nation, and is the Act of the King<g ref="char:EOLhyphen"/>dome, 'tis the security of the King, the Lords, and Commons, which can never need an Executor, can never dye, never be Bankrupt, and therefore We willingly consented to it for the Indemnity of Our good Subjects, of <hi>Scotland,</hi> (who We hope will not think the worse of it, for being so often and so cheap<g ref="char:EOLhyphen"/>ly mentioned since.) But that a Vote of one or both Houses should be an engagement upon the publike Faith, is as im<g ref="char:EOLhyphen"/>possible, as that the Committee of the House of Commons for Examinations, should be the High Court of Parliament.</p>
+            <p>And what is or can be said with the least shadow of reason to justifie these Extravagances? We have not lately heard of the old fundamentall Lawes which used to warrant the Innova<g ref="char:EOLhyphen"/>tions, this needs a Refuge even below those foundations: They will say they cannot manage their great undertakings without such extraordinary wayes; We thinke so too, but that proves only they have undertaken somewhat they ought not to undertake, not that it is lawfull for them to doe any thing that is convenient for those ends: We remembred them long ago, and We cannot doe it too often, of that excellent Speech of Mr. <hi>Pyms. The Law i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that which puts a difference betwixt good and evill, betwixt just and unjust, if you take away the Law, all things will fall into a confusion, every man will become a Law unto himselfe, which in the depraved condition of humane nature, must needs produce many great Enormities, Lust will become a Law, and Envy will become a Law, Covetousnesse and Ambition will become Lawes, and what Dictates, what Decision, such Lawes will produce may easily be discerned.</hi> It may indeed by the sad instances over the whole Kingdome; But will Posterity believe, that in the same Parliament this Doctrine was avowed with that Accla<g ref="char:EOLhyphen"/>mation,
+<pb facs="tcp:204857:4"/> and these instances after produced; That in the same Parliament such care was taken that no man should be com<g ref="char:EOLhyphen"/>mitted in what case soever, without the cause of his Imprison<g ref="char:EOLhyphen"/>ment expressed, and that all men should be immediatly bay<g ref="char:EOLhyphen"/>led in all Cases bayleable, and during the same Parliament that Alderman <hi>Penington,</hi> or indeed any body else, but the sworn Ministers of Justice, should imprison whom then would, and for what they would, and for as long time as they would; That the King should be reproached with breach of privi<g ref="char:EOLhyphen"/>ledge for accusing Sir <hi>Iohn Hotham</hi> of high treason, when with force of Armes he kept Him out of <hi>Hull,</hi> and despised Him to His face, because in no case a member of either House might be committed or accused without leave of that House, of which he is a member, and yet that during the same Parlia<g ref="char:EOLhyphen"/>ment, the same Alderman should commit the <hi>Earle</hi> of <hi>Middle<g ref="char:EOLhyphen"/>sex</hi> (a Peere of the Realme) and the Lord <hi>Buckhurst</hi> (a member of the House of Commons) to the <hi>Counter</hi> without reprehen<g ref="char:EOLhyphen"/>sion; that to be a Traitour (which is defined and every man understands) should be no crime, and to be called Malignant (which no body knowes the meaning of) should be ground enough for close imprisonment; That a Law should be made, that whosoever should presume to take Tunnage and pound<g ref="char:EOLhyphen"/>age without an Act of Parliament, should incur the penalty of a premunire, &amp; in the same Parliament, that the same imposi<g ref="char:EOLhyphen"/>tion should be laid upon Our Subjects, and taken by an Order of both Houses, without and against Our consent. Lastly, that in the same Parliament, a Law should be made to declare the proceedings and judgement upon Ship-money to be illegall and voyd, and during that Parliament, that an Order of both Houses shall, upon pretence of necessity, inable foure men to take away the twentieth part of their Estates from all their Neighbours, according to their discretion.</p>
+            <p>But Our good Subjects will no longer look upon these and the like Results, as upon the Counsells and conclusions of both Our houses of Parliament; (though all the world knows
+<pb facs="tcp:204857:4"/> even that Authority can never justifie things unwarrantable by the Law) they well know how few of the Persons trusted by them are present at their consultations, of above 500 not 80, and of the House of Peeres, not a fifth part, that they who are present enjoy not the priviledge and freedome of Parlia<g ref="char:EOLhyphen"/>ment, but are besieged by an Army, and awed by the same Tumults, which drave Us and their fellow Members from thence, to consent to what some few seditious, Schismaticall persons amongst them doe propose; These are the men, who joyning with the Anabaptists and Brownists of <hi>London,</hi> first changed the Government and D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>scipline of that City, and now by the pride and power of that City would undoe the Kingdom, whilst their Lord Major (a person accused and known to be guilty of high Treason) by a new Legislative power of his own, suppresses and reviles the Book of Com<g ref="char:EOLhyphen"/>mon-Prayer, robbes and imprisons whom he thinks fit, and with the rabble of his Faction gives Lawes to both Houses of Parliament, and tells them they will have no Accommodati<g ref="char:EOLhyphen"/>on, whil'st the members sent and entrusted by their Coun<g ref="char:EOLhyphen"/>tries, are expelled the House, or committed for refusing to take the Oath of Association, to live and dye with the <hi>Earle</hi> of <hi>Essex,</hi> as very lately Sir <hi>Sidney Mountague.</hi> These are the men who have presumed to send Ambassadors, and to enter into Treaties with Forraigne States in their own behalfes, having at this time an Agent of their own with the States of <hi>Holland,</hi> to negotiate for them upon private instructions. These are the men who not thinking they have yet brought mischiefe e<g ref="char:EOLhyphen"/>nough upon this Kingdom, at this time invite and sollicite Our Subjects of <hi>Scotland</hi> to enter this Land with an Army against Us. In a word, these are the men who have made this last devouring Ordinance to take away all Law, Liberty, and Property from Our people, and have by it really acted that upon Our people, which with infinite malice, and no colour or ground, was laboured to be infused into them to have been Our intention by the Commissions of <hi>Array.</hi>
+            </p>
+            <pb facs="tcp:204857:5"/>
+            <p>We have done; What power and authority these men have, or will have, We know not, for Our Selfe We challenge none such; We looke upon the pressures and inconveniences Our good Subjects beare, even by Us, and Our Army, (which the Army first raised by them enforced Us to leavy in Our de<g ref="char:EOLhyphen"/>fence, and their refusall of all offers and desires of Treaty en<g ref="char:EOLhyphen"/>forceth Us to keep) with very much sadnesse of heart; We are so farre from requiring a Twentieth part of their Estates (though for their own visible preservation) that as we have al<g ref="char:EOLhyphen"/>ready sold, or pawned Our own Jewells, and coyned Our own Plate, so We are willing to sell all Our own Land, and houses for their relief; yet We doe not doubt but Our good Subjects will seriously consider Our condition, and their own Duties, and thinke Our readinesse to protect them with the utmost hazard of Our Life, deserves their readinesse to assist Us with some part of their Fortunes, and whil'st other men give a Twentieth part of their Estates, to enable them to forfeit the other Nineteen, that they will extend themselves to Us in a liberall and free proportion for the preservation of the rest, and for the maintenance of God's true Religion, the Laws of the Land, the Liberty of the Subject, and the safety and very being of Parliaments, and this Kingdome: for if all these ever were, or can be in manifest danger, 'tis now in this present Rebellion against Us.</p>
+            <p>Lastly; We will and require all Our loving Subjects of what degree or quality soever, as they wil answer it to God, to Us, and to Posterity, by their Oathes of Allegiance and Supre<g ref="char:EOLhyphen"/>macy, as, they would not be looked upon now, and remem<g ref="char:EOLhyphen"/>bred hereafter, as Betrayers of the Lawes, and Liberty they were born to, that they in no degree submit to this wild pre<g ref="char:EOLhyphen"/>tended Ordinance, and that they presume not to give any en<g ref="char:EOLhyphen"/>couragement or assistance to the Army now in Rebellion against Us; which if notwithstanding they shall doe, they must expect from Us the severest punishment the Law can in<g ref="char:EOLhyphen"/>flict, and a perpetuall infamy with all good men.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204857:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
